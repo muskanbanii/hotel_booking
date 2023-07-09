@@ -29,10 +29,10 @@ The project directory is organized as follows:
 
 To replicate or build upon this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/hotel-booking-data-analysis.git`
-2. Navigate to the project directory: `cd hotel-booking-data-analysis`
-3. Run the Jupyter Notebooks in the `notebooks/` directory to access the analysis and visualization.
-4. Review the final report in the `reports/` directory for detailed findings and recommendations.
+1. Clone the repository
+2. Navigate to the project directory: 
+3. Run the Jupyter Notebooks in the directory to access the analysis and visualization.
+4. Review the final report in the directory for detailed findings and recommendations.
 
 ## Dependencies
 
